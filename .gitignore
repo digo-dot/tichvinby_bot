@@ -1,0 +1,32 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Файлы с секретами
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Файлы подписчиков (содержат chat_id пользователей)
+subscribers.txt
+
+# Тестовые файлы
+test_*.py
+test_*.html
+analyze_*.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
