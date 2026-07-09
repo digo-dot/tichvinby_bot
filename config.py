@@ -14,8 +14,8 @@ PRAVBREST_URL = "https://pravbrest.by"
 
 # Информация о храме
 CHURCH_NAME = "Храм Тихвинской иконы Божией Матери"
-CHURCH_ADDRESS = "г. Брест, ул. Пушкинская, 20"
-CHURCH_PHONE = "+375 (162) 42-22-58"
+CHURCH_ADDRESS = "г. Брест, ул. Волгоградская, 23"
+CHURCH_PHONE = "+375 (0162) 32-23-32"
 CHURCH_EMAIL = ""
 CHURCH_SITE = "https://tichvin.by"
 CHURCH_SCHEDULE = (
